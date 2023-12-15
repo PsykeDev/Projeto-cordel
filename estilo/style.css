@@ -29,6 +29,10 @@ header h1{
     font-size: 6vw;
 }
 
+header p{
+    font-size: 1.2vw;
+}
+
 a{
     color: white;
     font-weight: bolder;
@@ -43,7 +47,7 @@ section{
     font-family: var(--font2);
     font-size: 3vw;
     padding: 10vh  0px  10vh  20px ;
-    line-height: 5vw ;
+    line-height: 7vw ;
 }
 
 section p {
